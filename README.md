@@ -3,7 +3,7 @@
 
 # Command Injection 취약점 대응 OS 보안 강화 메커니즘
 
-[!ppt 1st slide](pic/front.png)
+![ppt 1st slide](pic/front.png)
 
 ## 💻 개요 및 목적
 
