@@ -18,7 +18,7 @@
 
 ---
 
-![exp result](.../command_injection_demo/experiment.PNG)
+![exp result](.../command_injection_demo/pic/experiment.PNG)
 
 
 효과는 굉장했다 🤯
